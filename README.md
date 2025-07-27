@@ -1,4 +1,6 @@
-# 🦀 Calculator Project – Rust (Shared)
+#  Calculator Project – Rust (Shared)
+
+![Ferris the Crab](https://www.rust-lang.org/static/images/ferris.gif)
 
 👥 Shared with ALI CS Club
 
