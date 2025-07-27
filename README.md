@@ -7,11 +7,12 @@
 ---
 
 This is the **shared Rust calculator repository** for ALI CS Club members.  
-It includes both versions:
-- `cli/` – A terminal-based calculator written in Rust.
-- `gui/` – A graphical calculator built using the `egui` or `iced` library.
+It includes both:
 
-Each version is stored in its own folder, with a single main `.rs` source file.
+- `cli/` – A terminal-based calculator written in idiomatic Rust.  
+- `gui/` – A graphical calculator using a modern Rust GUI framework like `egui` or `iced`.
+
+Each version is in its own folder and built using `cargo`.
 
 ---
 
